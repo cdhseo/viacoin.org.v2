@@ -1,4 +1,4 @@
-{
+﻿{
 	"slider": {
 		"slides": [
 			"<h1 class=\"title is-1 is-spaced has-text-weight-normal\"><strong class=\"has-text-weight-semibold\">SECURE MICROPAYMENTS</strong> <strong>PERFECTED</strong></h1><h2 class=\"subtitle\">Viacoin is an open source crypto-currency created in 2014, derived from the Bitcoin protocol that supports embedded consensus with an <strong>extended OP_RETURN</strong> of <strong>120 byte</strong>.</h2><div class=\"columns is-mobile is-vcentered is-marketcap\"><div class=\"column\"><div class=\"tag is-large is-statistics has-text-centered\"><div class=\"is-value\">{rank}</div><div class=\"is-label\">Market Rank</div></div></div><div class=\"column\"><div class=\"tag is-large is-statistics has-text-centered\"><div class=\"is-value\">${market_cap_usd}</div><div class=\"is-label\">Market Cap</div></div></div><div class=\"column\"><div class=\"tag is-large is-statistics has-text-centered\"><div class=\"is-value\">${24h_volume_usd}</div><div class=\"is-label\">Volume 24H</div></div></div></div>",
@@ -122,7 +122,7 @@
 		{
 			"progress": 100,
 			"title": "VIALECTRUM 3.1.3.1",
-			"text": "Vialectrum is a fast, secure and very easy to use lightweight Viacoin client. Your funds are securely stored and can easily be recovered from any device using a secret phrase. Vialectrum 3.0.5 comes has Bech32 address support, better fee estimation and VialectrumX Tor nodes.",
+			"text": "Vialectrum is a fast, secure and very easy to use lightweight Viacoin client. Your funds are securely stored and can easily be recovered from any device using a secret phrase. Vialectrum 3.1.3.1 comes has Bech32 address support, better fee estimation and VialectrumX Tor nodes.",
 			"icons": ["WindowsIcon", "LinuxIcon", "AndroidIcon"]
 		},
 		{
